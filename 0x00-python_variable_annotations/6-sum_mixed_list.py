@@ -1,8 +1,7 @@
-
 #!/usr/bin/env python3
 '''
 Task 6's module.
-Write a type-annotated function sum_mixed_list which takes a list mxd_lst 
+Write a type-annotated function sum_mixed_list which takes a list mxd_lst
 of integers and floats and returns their sum as a float.
 '''
 from typing import List, Union
